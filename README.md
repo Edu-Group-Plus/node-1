@@ -54,5 +54,5 @@ Build a **Knowledge Base System** as a NestJS application. The system should all
 3. **Submission**:
    - Clone this repository as a private repository on your GitHub account.
    - Commit your work to your private repository.
-   - Add viraj@translatez.co as a collaborator to grant access.
+   - Add viraj@exampapersplus.co.uk as a collaborator to grant access.
    - Submit the link to your private repository.
