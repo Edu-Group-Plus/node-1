@@ -56,3 +56,11 @@ Build a **Knowledge Base System** as a NestJS application. The system should all
    - Commit your work to your private repository.
    - Add viraj@exampapersplus.co.uk as a collaborator to grant access.
    - Submit the link to your private repository.
+  
+---
+
+## Notes on Deadlines and Features
+
+- The suggested deadline for this assignment is **1 week**. However, we understand that schedules can vary, so the timeline is flexible.
+- While it is encouraged to implement all the features outlined in the assignment, it is not mandatory to complete every single feature. Prioritize quality over quantity and focus on demonstrating your expertise and problem-solving skills.
+
